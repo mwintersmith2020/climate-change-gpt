@@ -1,0 +1,3 @@
+# Climate Change GPT
+This IPCC Working Group I contribution to the Sixth Assessment Report's Technical Summary assesses the current state of climate science. It details observed changes in global and regional climate, attributing many to human influence, and presents future projections under various emissions scenarios. The report highlights advancements in climate models and observational data, leading to increased confidence in understanding climate change. Specific attention is given to regional impacts, including changes in extreme weather events and sea level rise. The findings emphasize the urgency of mitigation efforts to limit the severity of future climate change and its associated risks.
+

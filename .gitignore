@@ -1,0 +1,8 @@
+__pycache__
+_pages
+_scratch
+_temp
+docs/
+voter-env
+_articles
+.DS_Store
