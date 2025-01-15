@@ -119,7 +119,7 @@ with st.container(border=True, height=200):
 
         #PROPOSITION = st.session_state.selected_prop
 
-        with st.spinner(f'Generating response...'):
+        with st.spinner(f'Generating response (may take 1+ minutes)...'):
             response= generatePrediction(prompt)
 
             # Display assistant response
